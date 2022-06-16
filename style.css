@@ -1,0 +1,17 @@
+#top {
+    height: 200px;
+    width: 1536px;
+    padding-top: 0px;
+    background-image: url("background.gif");
+}
+
+#user1 {
+    z-index: 99;
+    width: 400px;
+    height: 400px;
+    background-color: lemonchiffon;
+    margin-top: -70px;
+    border-radius: 10px;
+    border: 5px;
+    border-color: grey;
+}
